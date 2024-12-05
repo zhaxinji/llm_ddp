@@ -1,1 +1,1 @@
-# llm_ddp
+python 3.12
