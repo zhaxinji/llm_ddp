@@ -3,7 +3,7 @@
 # Anaconda3-2024.06-1
 conda 24.1.2
 
-conda create -n zhaxinji python=3.12
+conda create -n zhayongfu python=3.12
 
 conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia
 
